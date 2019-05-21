@@ -1,0 +1,70 @@
+<resources>
+    <!-- Night application theme. -->
+    <style name="darkTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ffffff</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="colorAccent">#10A26D</item>
+        <item name="android:actionOverflowButtonStyle">@style/DotsDarkTheme</item>
+        <item name="android:itemBackground">#10A26D</item>
+        <item name="backgroundtoolbar1">#000</item>
+        <item name="toolbarheading1">#10a26d</item>
+        <item name="backgroundcolor1">#000</item>
+        <item name="cardbackgroundcolor1">#10a26d</item>
+        <item name="cardbackgroundcolor2">#f03b3939</item>
+        <item name="cardtextcolor1">#000</item>
+        <item name="textcolor1">#fff</item>
+        <item name="headingcolor1">#10a26d</item>
+        <item name="elementscolor1">#10a26d</item>
+        <item name="readback">#000</item>
+        <item name="readtext">#778899</item>
+        <item name="sepcolor">#10a26d</item>
+        <item name="settext1">#10a26d</item>
+        <item name="eletext1">#fff</item>
+        <item name="linearback1">#A9A9A9</item>
+        <item name="completion">#10a26d</item>
+        <item name="incompletion">#fff</item>
+        <item name="progress">#10a26d</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+    <style name="DotsDarkTheme" parent="@style/Widget.AppCompat.ActionButton.Overflow" >
+        <item name="android:tint">#10a26d</item>
+    </style>
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">#10a26d</item>
+    </style>
+    <!-- Day application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ffffff</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="colorAccent">#ffffff</item>
+        <item name="android:actionOverflowButtonStyle">@style/DotsLightTheme</item>
+        <item name="android:itemBackground">#81d4fa</item>
+        <item name="backgroundtoolbar1">#000</item>
+        <item name="toolbarheading1">#fff</item>
+        <item name="backgroundcolor1">#fff</item>
+        <item name="cardbackgroundcolor1">#3b5998</item>
+        <item name="cardbackgroundcolor2">#81d4fa</item>
+        <item name="cardtextcolor1">#fff</item>
+        <item name="textcolor1">#000</item>
+        <item name="headingcolor1">#c0392b</item>
+        <item name="elementscolor1">#81d4fa</item>
+        <item name="readback">#fff</item>
+        <item name="readtext">#000</item>
+        <item name="sepcolor">#778899</item>
+        <item name="settext1">#000</item>
+        <item name="eletext1">#fff</item>
+        <item name="linearback1">#A9A9A9</item>
+        <item name="completion">#008800</item>
+        <item name="incompletion">#c0392b</item>
+        <item name="progress">#000</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle2</item>
+    </style>
+    <style name="DotsLightTheme" parent="@style/Widget.AppCompat.ActionButton.Overflow" >
+        <item name="android:tint">#fff</item>
+    </style>
+    <style name="DrawerArrowStyle2" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">#fff</item>
+    </style>
+</resources>

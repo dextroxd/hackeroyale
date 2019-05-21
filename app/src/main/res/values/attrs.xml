@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArcProgress">
+        <attr name="arc_progress" format="integer"/>
+        <attr name="arc_angle" format="float"/>
+        <attr name="arc_stroke_width" format="dimension"/>
+        <attr name="arc_max" format="integer"/>
+        <attr name="arc_unfinished_color" format="color"/>
+        <attr name="arc_finished_color" format="color"/>
+        <attr name="arc_text_size" format="dimension"/>
+        <attr name="arc_text_color" format="color"/>
+        <attr name="arc_suffix_text" format="string"/>
+        <attr name="arc_suffix_text_size" format="dimension"/>
+        <attr name="arc_suffix_text_padding" format="dimension"/>
+        <attr name="arc_bottom_text" format="string"/>
+        <attr name="arc_bottom_text_size" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="ds">
+        <attr name="backgroundtoolbar1" format="color"/>
+        <attr name="toolbarheading1" format="color"/>
+        <attr name="backgroundcolor1" format="color"/>
+        <attr name="cardbackgroundcolor1" format="color"/>
+        <attr name="cardbackgroundcolor2" format="color"/>
+        <attr name="cardtextcolor1" format="color"/>
+        <attr name="textcolor1" format="color"/>
+        <attr name="headingcolor1" format="color"/>
+        <attr name="elementscolor1" format="color"/>
+        <attr name="readback" format="color"/>
+        <attr name="readtext" format="color"/>
+        <attr name="sepcolor" format="color"/>
+        <attr name="settext1" format="color"/>
+        <attr name="eletext1" format="color"/>
+        <attr name="linearback1" format="color"/>
+        <attr name="completion" format="color"/>
+        <attr name="incompletion" format="color"/>
+        <attr name="progress" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="CircularProgressBar">
+        <attr name="cpb_progress" format="integer" />
+        <attr name="cpb_progress_max" format="integer" />
+        <attr name="cpb_indeterminate_mode" format="boolean" />
+        <attr name="cpb_progressbar_color" format="color" />
+        <attr name="cpb_background_progressbar_color" format="color" />
+        <attr name="cpb_progressbar_width" format="dimension" />
+        <attr name="cpb_background_progressbar_width" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="DonutProgress">
+        <attr name="donut_progress" format="integer"/>
+        <attr name="donut_max" format="integer"/>
+        <attr name="donut_unfinished_color" format="color"/>
+        <attr name="donut_finished_color" format="color"/>
+        <attr name="donut_finished_stroke_width" format="dimension"/>
+        <attr name="donut_unfinished_stroke_width" format="dimension"/>
+        <attr name="donut_text_size" format="dimension"/>
+        <attr name="donut_text_color" format="color"/>
+        <attr name="donut_text" format="string"/>
+        <attr name="donut_prefix_text" format="string"/>
+        <attr name="donut_suffix_text" format="string"/>
+        <attr name="donut_background_color" format="color"/>
+    </declare-styleable>
+</resources>

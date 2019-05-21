@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/aboutus" android:enabled="true" android:title="@string/aboutus"  android:background="?attr/selectableItemBackgroundBorderless"/>
+    <item android:id="@+id/disclaimer" android:enabled="true" android:title="@string/disclaimer" android:background="?attr/selectableItemBackgroundBorderless"/>
+    <item android:id="@+id/privacy" android:enabled="true" android:title="@string/privacy" android:background="?attr/selectableItemBackgroundBorderless"/>
+    <item android:id="@+id/help1" android:enabled="true" android:title="@string/contactus" android:background="?attr/selectableItemBackgroundBorderless"/>
+    <item android:id="@+id/rate1" android:enabled="true" android:title="@string/rate" android:background="?attr/selectableItemBackgroundBorderless" />
+    <item android:id="@+id/share1" android:enabled="true" android:title="@string/share" android:background="?attr/selectableItemBackgroundBorderless" />
+    <item android:id="@+id/premium" android:enabled="true" android:title="GET PREMIUM" android:background="?attr/selectableItemBackgroundBorderless"/>
+
+    <!--<item android:id="@+id/bookmarked" android:enabled="true" android:title="@string/bookmarked" />-->
+    <!--<item android:id="@+id/contactus" android:enabled="true" android:title="@string/contactus" />-->
+    <!--<item android:id="@+id/settings"  android:enabled="true" android:title="@string/settings"/>-->
+</menu>

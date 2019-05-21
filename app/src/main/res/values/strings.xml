@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HackeRoyale</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="quiz">QUIZ</string>
+    <string name="read">TUTORIALS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutus">ABOUT US</string>
+    <string name="bookmarked">STARRED</string>
+    <string name="settings">SETTINGS</string>
+    <string name="contactus">CONTACT US</string>
+    <string name="disclaimer">DISCLAIMER</string>
+    <string name="privacy">PRIVACY</string>
+    <string name="rate">RATE US</string>
+    <string name="share">SHARE</string>
+    <string name="theme">Dark Theme</string>
+    <string name="darktheme">Dark Theme</string>
+    <string name="manifest">ca-app-pub-5246670215984835~5894607121</string>
+    <string name="banner">ca-app-pub-5246670215984835/2885300403</string>
+    <string name="interstitial">ca-app-pub-5246670215984835/6261562340</string>
+    <string name="manifesttest">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="bannertest">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitialtest">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
